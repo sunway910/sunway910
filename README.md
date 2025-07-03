@@ -2,7 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunway910" alt="sunway910" /> </p>
 
-- 💻 Software Engineer @[CESS](https://www.cess.network/)
+⚡ Fun fact:
+- 💻 Software Engineer @[CESS](https://www.cess.network)
+- 🌱 I’m currently learning English.
+- :pencil2: I Write blogs on free days.
 
 <!-- - 📫 Reach out to me - **shengweizhong910@gmail.com** -->
 
@@ -23,10 +26,8 @@
 </p>
 
 <p align="left" class="frameworks">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" alt="nextjs" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
   <img src="https://github.com/gin-gonic/logo/blob/master/color.svg" alt="gin" width="40" height="40"/>
 </p>
@@ -41,7 +42,7 @@
 <p align="left" class="CloudNative">
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/> 
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/>  -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
 </p>
@@ -53,11 +54,15 @@
   <img src="https://www.tencentcloud.com/favicon.ico" alt="tencentcloud" width="40" height="40"/>
 </p>
 
+<p align=center>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=sunway910&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunway910&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
+</p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunway910&show_icons=true" alt="sunway910" />
 
+### Let's Connect :coffee:
 <p align="center">
-<h2>Follow me on :</h2>
-<a href="https://x.com/sunwayz911" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jsdevsg" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/sunway-zhong-47b94b257/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sudiptoghosh11" height="40" width="40" /></a>
+	<a href="https://github.com/sunway910"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/sunway-zhong-47b94b257/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="[https://twitter.com/sisodiya2421](https://x.com/sunwayz911)"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
 </p>
