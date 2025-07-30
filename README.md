@@ -64,5 +64,5 @@
 <p align="center">
 	<a href="https://github.com/sunway910"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sunway-zhong-47b94b257/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="[https://x.com/sunwayz911](https://x.com/sunwayz911)"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
+	<a href="https://x.com/sunwayz911"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
 </p>
