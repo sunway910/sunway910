@@ -1,15 +1,26 @@
 <h1 align="center">Hi 👋, I'm Sunway</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunway910" alt="sunway910" /> </p>
+**A** softwore engineer with more than 3 years of professional experience. **Cureently** build at @[CESS](https://www.cess.network) 
 
-⚡ Fun fact:
-- 💻 Software Engineer @[CESS](https://www.cess.network)
-- 🌱 I’m currently learning English.
-- :pencil2: I Write blogs on free days.
+**In** general, I've worked with microservice and cloud architectures. More activity about me: [My Blog](https://sunway.run).
 
-<!-- - 📫 Reach out to me - **shengweizhong910@gmail.com** -->
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=sunway910&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=sunway910&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/sunway910/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunway910&layout=compact"/></a>
+</p>
 
-### Skills
+<p align='center'>
+<a href="https://github.com/sunway910"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/sunway-zhong-47b94b257/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://x.com/sunwayz911"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
+<p align='center'>
+   📫 How to reach me: 
+	<a href='mailto:shengweizhong910@gmail.com'>shengweizhong910@gmail.com</a>
+</p>
+
+### Technical Stack
 
 <p align="left" class="frontend">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -54,15 +65,4 @@
   <img src="https://www.tencentcloud.com/favicon.ico" alt="tencentcloud" width="40" height="40"/>
 </p>
 
-<p align=center>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=sunway910&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunway910&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
-</p>
 
-
-### Let's Connect :coffee:
-<p align="center">
-	<a href="https://github.com/sunway910"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/sunway-zhong-47b94b257/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://x.com/sunwayz911"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
-</p>
