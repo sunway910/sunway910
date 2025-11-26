@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sunway</h1>
 
-**A** softwore engineer with more than 3 years of professional experience. **Cureently** as a opensource contributor at @[CESS](https://www.cess.network) 
+**A** softwore engineer with more than 3 years of professional experience. 
+
+**Cureently** as an opensource contributor at @[CESS](https://www.cess.network) 
 
 **In** general, I've worked with devops and cloud architectures. **More** activity about me: [My Blog](https://sunway.run).
 
