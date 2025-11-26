@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sunway</h1>
 
-**A** softwore engineer with more than 3 years of professional experience. **Cureently** build at @[CESS](https://www.cess.network) 
+**A** softwore engineer with more than 3 years of professional experience. **Cureently** as a opensource contributor at @[CESS](https://www.cess.network) 
 
 **In** general, I've worked with devops and cloud architectures. **More** activity about me: [My Blog](https://sunway.run).
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=sunway910&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=sunway910&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/sunway910/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunway910&layout=compact"/></a>
-</p>
 
 <p align='center'>
 <a href="https://github.com/sunway910"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
