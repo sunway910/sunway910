@@ -10,7 +10,7 @@
 <a href="https://x.com/sunwayz911"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
 <p align='center'>
    📫 How to reach me: 
-	<a href='mailto:shengweizhong910@gmail.com'>shengweizhong910@gmail.com</a>
+	<a href='mailto:shengweizhong910@gmail.com'>sunwayz910@gmail.com</a>
 </p>
 
 ### Technical Stack
